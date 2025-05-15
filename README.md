@@ -35,7 +35,7 @@ But I stuck with it, and it reignited my love for learning and deepened my curio
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddyhub&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Let’s Connect  
-[LinkedIn](https://linkedin.com/in/smorisset888) • [Twitter](https://twitter.com/jesitme)  
+[LinkedIn](https://linkedin.com/in/smorisset888) • [Twitter](https://twitter.com/jesitme) [Tableau](https://public.tableau.com/app/profile/shadhanna.morisset/vizzes)
 *Portfolio in the works — stay tuned*
 
 ---
