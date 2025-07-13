@@ -4,7 +4,7 @@ Welcome to **shaddyhub** — where curiosity meets code, and data tells a story.
 
 ## Google Advanced Data Analytics Certificate  
 I’m really proud of this one. Not just because it was challenging (and it was), but because I earned it while juggling work, travel, and life.  
-From late-night study sessions to reviewing dashboards in airport lounges — this was a grind.  
+From late-night study sessions to reviewing dashboards in airport lounges this was a grind.  
 But I stuck with it, and it reignited my love for learning and deepened my curiosity about data.
 
 ### What I Gained:
