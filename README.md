@@ -1,24 +1,3 @@
-# Hi, I'm Shaddy
-
-Welcome to **shaddyhub**!
-
- 
-I’m really proud of this one. Not just because it was challenging (and it was), but because I earned it while juggling work, travel, and life.  
-From late-night study sessions to reviewing dashboards in airport lounges this was a grind.  
-But I stuck with it, and it reignited my love for learning and deepened my curiosity about data.
-
-### What I Gained:
-- Advanced data wrangling, visualization, and statistical analysis
-- A deeper curiosity for how data powers everything
-- A renewed passion for learning and pushing past limits
-
-## What I’m About
-- Exploring insights through clean, impactful data storytelling
-- Building skills in analytics, automation, and decision science
-- Staying curious, always growing
-
-## Languages & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -33,13 +12,4 @@ But I stuck with it, and it reignited my love for learning and deepened my curio
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddyhub&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Let’s Connect  
-[LinkedIn](https://linkedin.com/in/smorisset888) • [Twitter](https://twitter.com/jesitme) [Tableau](https://public.tableau.com/app/profile/shadhanna.morisset/vizzes)
-*Portfolio in the works — stay tuned*
-
----
-
-Push through. Stay curious. Celebrate every win big or small.
-
-#WomenInTech • #DataAnalytics • #LearningJourney • #LifelongLearning • #Resilience • #GrowthMindset • #AdvancedDataAnalytics • #GoogleCertificate
-> “First, solve the problem. Then, make it look cool.” – probably me
-
+[LinkedIn](https://linkedin.com/in/smorisset888) • [Tableau](https://public.tableau.com/app/profile/shadhanna.morisset/vizzes)
