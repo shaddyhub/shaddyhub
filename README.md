@@ -6,10 +6,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cert](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-brightgreen?style=for-the-badge&logo=google&logoColor=white)
 
-## GitHub Stats
-
-![Shaddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddyhub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddyhub&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Let’s Connect  
 [LinkedIn](https://linkedin.com/in/smorisset888) • [Tableau](https://public.tableau.com/app/profile/shadhanna.morisset/vizzes)
