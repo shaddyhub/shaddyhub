@@ -7,4 +7,4 @@
 ![Google Cert](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-brightgreen?style=for-the-badge&logo=google&logoColor=white)
 
 ## Let’s Connect  
-[LinkedIn](https://linkedin.com/in/smorisset888) • [Tableau](https://public.tableau.com/app/profile/shadhanna.morisset/vizzes)
+ • [Tableau](https://public.tableau.com/app/profile/shadhanna.morisset/vizzes)
